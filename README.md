@@ -6,6 +6,14 @@ A flutter mobile application designed to enhance communication and transparency 
 - Real-time patient status updates
 - Secure communication between hospital staff and families
 - Clean and intuitive user interface
+  
+## Screenshots
+
+![screenshots](https://github.com/user-attachments/assets/1f1b86aa-e2d2-4e0a-8998-4aeba51586e5)
+
+## App Video Animation
+
+https://github.com/user-attachments/assets/a5673328-60cc-4856-8e67-0c7fb6535df3
 
 ## Getting Started
 
