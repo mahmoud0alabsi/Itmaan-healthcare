@@ -1,6 +1,12 @@
 # Itmaan (Rest Assured) (اطمئن)
 A flutter mobile application designed to enhance communication and transparency between hospital staff and patients' families, providing real-time updates and peace of mind during medical treatment.
 
+## Contributors
+
+- [@Ahmad Jaber](https://github.com/Ahmad-Jaber1)
+- [@Ahmad Alsafoty](https://github.com/alsafoty)
+- [@Abdelrhman khshman](https://github.com/abd-khshman)
+
 ## Screenshots
 
 ![screenshots](https://github.com/user-attachments/assets/1f1b86aa-e2d2-4e0a-8998-4aeba51586e5)
@@ -14,12 +20,6 @@ A flutter mobile application designed to enhance communication and transparency 
 ## App Video Animation
 
 https://github.com/user-attachments/assets/a5673328-60cc-4856-8e67-0c7fb6535df3
-
-## 👥 Contributors
-
-- [@Ahmad Jaber](https://github.com/Ahmad-Jaber1)
-- [@Ahmad Alsafoty](https://github.com/alsafoty)
-- [@Abdelrhman khshman](https://github.com/abd-khshman)
 
 ## Getting Started
 
