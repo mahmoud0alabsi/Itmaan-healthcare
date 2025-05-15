@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/a5673328-60cc-4856-8e67-0c7fb6535df3
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/mahmoud0alabsi/Itmaan-healthcare.git itmaan
 ```
 
 2. Navigate to project directory
